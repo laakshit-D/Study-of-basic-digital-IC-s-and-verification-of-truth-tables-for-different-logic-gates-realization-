@@ -76,8 +76,9 @@ nand(y6,a,b);
 nor(y7,a,b);
 endmodule
 ```
-Logic symbol & Truthtable
-RTL realization
+## Logic symbol & Truthtable:
+![WhatsApp Image 2023-05-17 at 14 16 27](https://github.com/laakshit-D/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119559976/07a5c695-c41d-4cba-b7d5-75d293103cf5)
+
 ## Output:
 ![out11](https://user-images.githubusercontent.com/119559976/229306721-e1fe070b-9e8d-49ed-98b6-e8db22b40ada.jpg)
 
