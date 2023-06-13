@@ -77,12 +77,15 @@ nor(y7,a,b);
 endmodule
 ```
 ## Logic symbol & Truthtable:
+
 ![WhatsApp Image 2023-05-17 at 14 16 27](https://github.com/laakshit-D/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119559976/07a5c695-c41d-4cba-b7d5-75d293103cf5)
 
-## Output:
+## RTL:
+
 ![out11](https://user-images.githubusercontent.com/119559976/229306721-e1fe070b-9e8d-49ed-98b6-e8db22b40ada.jpg)
 
-## RTL:
+## Output:
+
 ![out2](https://user-images.githubusercontent.com/119559976/229306724-77af40e7-a4c8-4427-abfd-06e9de3aaac8.jpg)
 
 ## Result:
